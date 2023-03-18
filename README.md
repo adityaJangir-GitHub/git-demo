@@ -2,8 +2,5 @@
 
 This is my first file in this repo.
 
-#Ipsum Below
-
-yes  yes yes yes yes
-
-no no no no no
+#Websites list
+1.index.html
